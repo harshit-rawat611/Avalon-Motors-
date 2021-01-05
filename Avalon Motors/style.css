@@ -1,0 +1,111 @@
+
+body{margin: 0;}
+#lambo{width: 700px; height: 350px;}
+#welcome{padding-left: 50px;}
+.redblue-car{width: 700px ; height:400px;}
+.second{padding-top: 100px;padding-left: 100px;padding-bottom: 100px;}
+#car1{padding-left: 200px;}
+#top{padding-top: 50px;}
+#logotop{padding-left: 200px;}
+.topnav {
+ padding-right: 200px;
+  overflow: hidden;
+}
+.topnav a {
+  float: right;
+  color: #ffffff;
+  text-align: right;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav a:hover {
+  background-color: #161c34;
+  color: black;
+}
+
+h2{
+  margin: 0px;
+}
+.first {
+ background-image: url('firstbk.png');   padding-bottom: 75px;
+}
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 20px;
+  background:  #f36b2a;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #161c34;
+  text-decoration: none;
+}
+.third{background-color: #161c34; padding-top:50px; }
+.header {
+  padding: 30px;
+  margin-left: 500px;
+  margin-right: 500px;
+  text-align: center;
+  background: #f36b2a;
+  color: white;
+  font-size: 45px;
+}
+#why{ padding-top: 100px;}
+.fourth{background-color: #f36b2a; padding-top: 20px}
+.header1 {
+  padding: 30px;
+  margin-left: 500px;
+  margin-right: 500px;
+  text-align: center;
+  background: #161c34;
+  color: white;
+  font-size: 45px;
+}
+#capture { border-radius: 50%; width :240px;height:300px;}
+.aa {background-color: white;
+text-align: center;
+margin-left: 300px;
+margin-right: 300px;
+padding-top: 100px;
+padding-bottom: 100px;}
+#harshit {
+  color:  #f36b2a;
+  font-size: 60px;
+  font-family: serif;
+}
+.fifth {background-color: #161c34; padding-top:50px; padding-bottom: 50px}
+#fifth-in {
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: white;
+  margin-left:50px;
+  margin-right:50px;
+}
+#padding {
+    padding-left: 100px;
+   padding-top: 60px;
+   padding-bottom: 55px;
+   color:black;
+   background-color: white;
+ }
+ #div1 {
+   height: auto;
+   width: auto;
+ }
+.last{background-color: #161c34; padding-bottom: 50px;}
+#last { text-align:center;padding-top: 30px; padding-bottom: 30px;background-color: white;}
+#head-top {
+  font-family: serif;
+  font-size: 20px;
+   color: white;
+   padding-left: 100px;
+   padding-top: 50px;
+}
